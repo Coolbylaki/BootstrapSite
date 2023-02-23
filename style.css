@@ -14,7 +14,7 @@
 
 section:last-of-type {
 	background-color: rgb(39, 39, 39);
-	padding-bottom: 1rem;
+	padding-bottom: 0.5rem;
 }
 
 section:last-of-type h4 {
