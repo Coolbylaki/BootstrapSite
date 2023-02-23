@@ -3,10 +3,20 @@
 }
 
 #icons,
-#gallery {
+#gallery,
+#tables {
 	margin: 5rem;
 }
 
 #icons > div {
 	padding: 1rem;
+}
+
+section:last-of-type {
+	background-color: rgb(39, 39, 39);
+	padding-bottom: 1rem;
+}
+
+section:last-of-type h4 {
+	margin-bottom: 1rem;
 }
