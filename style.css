@@ -1,4 +1,11 @@
 .nav-link {
 	margin: 0 0.25rem;
-	font-size: 1.25em;
+}
+
+#icons {
+	margin: 5rem;
+}
+
+#icons > div {
+	padding: 1rem;
 }
